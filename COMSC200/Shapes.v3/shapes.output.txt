@@ -1,0 +1,14 @@
+Square: side = 14.5 area = 210.25 Perimeter = 58.00
+Square: side = 0 area = 0.00 Perimeter = 0.00
+Rectangle: length = 14.5 width = 4.65 area = 67.43 perimeter = 38.30
+Circle: radius = 14.5 area = 660.52 perimeter = 91.11
+Box: length = 0  width = 2 height = 9 volume = 0.00 surface area = 36.00
+Triangle: base = 13 area = 84.50 perimeter = 39.00
+Box: length = 1  width = 2 height = 3 volume = 6.00 surface area = 22.00
+Cylinder: radius = 2.3 height = 4 volume = 66.48 surface area = 91.04
+Cylinder: radius = 1.23 height = 0 volume = 0.00 surface area = 9.51
+Cylinder: radius = 50 height = 1.23 volume = 9660.40 surface area = 16094.38
+Triangle: base = 1.2 area = 0.72 perimeter = 3.60
+Prism:  side = 2.199 height = 5 area = 5.50 Perimeter = 0.00
+
+END
